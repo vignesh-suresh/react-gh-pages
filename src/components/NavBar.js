@@ -29,6 +29,7 @@ const NavBar = () => {
           Blogging Site
         </Typography>
         <Button color="inherit">Home</Button>
+	<Button color="inherit">My Blogs</Button>
       </Toolbar>
     </AppBar>
   );
