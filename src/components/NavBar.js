@@ -21,15 +21,14 @@ import IconButton from '@material-ui/core/IconButton';
 
 const NavBar = () => {
   return(
-    <AppBar position="static">
+    <AppBar position="fixed">
       <Toolbar>
         <IconButton edge="start" color="inherit" aria-label="menu">
-
         </IconButton>
         <Typography variant="h6">
-          News
+          Blogging Site
         </Typography>
-        <Button color="inherit">Login</Button>
+        <Button color="inherit">Home</Button>
       </Toolbar>
     </AppBar>
   );
