@@ -1,9 +1,0 @@
-#-------------------------------------------------------------------
-# Ignore everything under the following directories.
-#-------------------------------------------------------------------
-# Class files etc.
-/code/target
-
-
-
-/node_modules
